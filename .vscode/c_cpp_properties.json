@@ -1,0 +1,53 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/local/include",
+                "/usr/include",
+                "/opt/ros/rolling/include",
+                "/opt/ros/rolling/include/class_loader",
+                "/opt/ros/rolling/include/ament_index_cpp",
+                "/opt/ros/rolling/include/camera_info_manager",
+                "/opt/ros/rolling/include/image_transport",
+                "/opt/ros/rolling/include/sensor_msgs",
+                "/opt/ros/rolling/include/cv_bridge",
+                "/opt/ros/rolling/include/cv_bridge",
+                "/opt/ros/rolling/include/rclcpp",
+                "/opt/ros/rolling/include/rosidl_runtime_cpp",
+                "/opt/ros/rolling/include/rclcpp_lifecycle",
+                "/opt/ros/rolling/include/std_msgs",
+                "/opt/ros/rolling/include/rosidl_typesupport_interface",
+                "/opt/ros/rolling/include/rcutils",
+                "/opt/ros/rolling/include/rcl",
+                "/opt/ros/rolling/include/rcl_interfaces",
+                "/opt/ros/rolling/include/rmw",
+                "/opt/ros/rolling/include/lifecycle_msgs",
+                "/opt/ros/rolling/include/rcl_lifecycle",
+                "/opt/ros/rolling/include/rosidl_runtime_c",
+                "/opt/ros/rolling/include/builtin_interfaces",
+                "/opt/ros/rolling/include/service_msgs",
+                "/opt/ros/rolling/include/rcpputils",
+                "/opt/ros/rolling/include/rcl_yaml_param_parser",
+                "/opt/ros/rolling/include/type_description_interfaces",
+                "/opt/ros/rolling/include/",
+                "/opt/ros/rolling/include/rosidl_dynamic_typesupport",
+                "/opt/ros/rolling/include/cv_bridge",
+                "/opt/ros/rolling/include/tracetools",
+                "/opt/ros/rolling/include/libstatistics_collector",
+                "/opt/ros/rolling/include/statistics_msgs",
+                "/opt/ros/rolling/include/rosidl_typesupport_introspection_cpp",
+                "/usr/include",
+                "/opt/ros/rolling/include/rclcpp_components",
+                "/usr/include/opencv4"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
